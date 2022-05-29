@@ -10,7 +10,7 @@
 
 所谓“前人种树，后人乘凉”，希望已经或者即将远赴重洋的你，也能够薪火相传，为后来人做出自己的贡献。
 
-可以在GitHub项目中提出Pull Requests，也可以发邮件到1985055836@qq.com，会及时更新到这里。
+可以在GitHub项目[https://github.com/juwentao/HNU-fly-book](https://github.com/juwentao/HNU-fly-book)中提出Pull Requests，也可以发邮件到1985055836@qq.com，会及时更新到这里。
 
 欢迎湖大在读或已经毕业的同学提PR，如果您对本书内容有任何问题或建议，也欢迎来提，谢谢！
 
