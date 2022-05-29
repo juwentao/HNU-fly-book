@@ -8,10 +8,14 @@
 
 ## 📖 留学申请入门
 
-* [🏫 美国高校及留学情况概览](liu-xue-shen-qing-ru-men/mei-guo-gao-xiao-ji-liu-xue-qing-kuang-gai-lan.md)
+* [🏫 留学情况概览](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 * [💯 GPA](liu-xue-shen-qing-ru-men/gpa.md)
 * [🔤 托福](liu-xue-shen-qing-ru-men/tuo-fu.md)
 * [📃 GRE](liu-xue-shen-qing-ru-men/gre.md)
+
+## 📧 关于申请
+
+* [申请准备](guan-yu-shen-qing/shen-qing-zhun-bei.md)
 
 ## 🌎 留学国家
 
