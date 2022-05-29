@@ -6,14 +6,14 @@
 
 * [💡 条条大路通罗马](xie-zai-qian-mian/tiao-tiao-da-lu-tong-luo-ma.md)
 
-## ✈ 留学
+## 📖 留学申请入门
 
-* [🇺🇸 美国](liu-xue/mei-guo.md)
-* [🇬🇧 英国](liu-xue/ying-guo.md)
+* [留学申请入门](liu-xue-shen-qing-ru-men/liu-xue-shen-qing-ru-men.md)
 
-## 🌏 HNU
+## 🌎 留学国家
 
-* [为什么不要来HNU](hnu/wei-shi-mo-bu-yao-lai-hnu.md)
+* [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
+* [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
 
 ## 🤘 未来
 
