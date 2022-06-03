@@ -6,12 +6,12 @@
 
 * [💡 条条大路通罗马](xie-zai-qian-mian/tiao-tiao-da-lu-tong-luo-ma.md)
 
-## 📖 出国留学入门
+## 出国留学入门
 
 * [🌍 湖大21届毕业生去向](liu-xue-guo-jia/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
 * [💰 留学花费](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 
-## 📧 申请准备
+## 申请准备
 
 * [诚信原则](guan-yu-shen-qing/shen-qing-zhun-bei.md)
 * [DIY OR 中介？](guan-yu-shen-qing/diy-or-zhong-jie.md)
