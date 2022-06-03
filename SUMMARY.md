@@ -6,20 +6,20 @@
 
 * [💡 条条大路通罗马](xie-zai-qian-mian/tiao-tiao-da-lu-tong-luo-ma.md)
 
-## 📖 留学申请入门
+## 📖 出国留学入门
 
-* [湖大21届毕业生去向](liu-xue-guo-jia/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
-* [💰 留学花费](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
-* [💯 GPA](liu-xue-shen-qing-ru-men/gpa.md)
-* [🦆 雅思](liu-xue-shen-qing-ru-men/ya-si.md)
-* [🔤 托福](liu-xue-shen-qing-ru-men/tuo-fu.md)
-* [📃 GRE](liu-xue-shen-qing-ru-men/gre.md)
+* [🌍 湖大21届毕业生去向](chu-guo-liu-xue-ru-men/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
+* [💰 留学花费](chu-guo-liu-xue-ru-men/liu-xue-hua-fei.md)
 
-## 📧 关于申请
+## 📧 申请准备
 
-* [诚信原则](guan-yu-shen-qing/shen-qing-zhun-bei.md)
-* [DIY OR 中介？](guan-yu-shen-qing/diy-or-zhong-jie.md)
-* [湖南大学留学常用信息](guan-yu-shen-qing/hu-nan-da-xue-liu-xue-chang-yong-xin-xi.md)
+* [诚信原则](shen-qing-zhun-bei/cheng-xin-yuan-ze.md)
+* [DIY OR 中介？](shen-qing-zhun-bei/diy-or-zhong-jie.md)
+* [湖南大学留学常用信息](shen-qing-zhun-bei/hu-nan-da-xue-liu-xue-chang-yong-xin-xi.md)
+* [💯 GPA](shen-qing-zhun-bei/gpa.md)
+* [🦆 雅思](shen-qing-zhun-bei/ya-si.md)
+* [🔤 托福](shen-qing-zhun-bei/tuo-fu.md)
+* [📃 GRE](shen-qing-zhun-bei/gre.md)
 
 ## 🌎 留学国家
 
