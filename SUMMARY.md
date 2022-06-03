@@ -15,7 +15,9 @@
 
 ## 📧 关于申请
 
-* [申请准备](guan-yu-shen-qing/shen-qing-zhun-bei.md)
+* [诚信原则](guan-yu-shen-qing/cheng-xin-yuan-ze.md)
+* [DIY OR 中介？](guan-yu-shen-qing/diy-or-zhong-jie.md)
+* [湖南大学留学常用信息](guan-yu-shen-qing/hu-nan-da-xue-liu-xue-chang-yong-xin-xi.md)
 
 ## 🌎 留学国家
 
