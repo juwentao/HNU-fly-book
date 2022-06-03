@@ -22,6 +22,7 @@
 
 ## 🌎 留学国家
 
+* [湖大21届毕业生去向](liu-xue-guo-jia/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
 * [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
 * [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
 * [🏰 欧陆](liu-xue-guo-jia/ou-lu.md)
