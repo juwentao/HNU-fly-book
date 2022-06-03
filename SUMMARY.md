@@ -10,6 +10,7 @@
 
 * [🏫 留学情况概览](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 * [💯 GPA](liu-xue-shen-qing-ru-men/gpa.md)
+* [🦆 雅思](liu-xue-shen-qing-ru-men/ya-si.md)
 * [🔤 托福](liu-xue-shen-qing-ru-men/tuo-fu.md)
 * [📃 GRE](liu-xue-shen-qing-ru-men/gre.md)
 
