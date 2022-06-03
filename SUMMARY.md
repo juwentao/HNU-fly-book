@@ -8,7 +8,8 @@
 
 ## 📖 留学申请入门
 
-* [🏫 留学情况概览](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
+* [湖大21届毕业生去向](liu-xue-shen-qing-ru-men/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
+* [💰 留学花费](liu-xue-shen-qing-ru-men/liu-xue-hua-fei.md)
 * [💯 GPA](liu-xue-shen-qing-ru-men/gpa.md)
 * [🦆 雅思](liu-xue-shen-qing-ru-men/ya-si.md)
 * [🔤 托福](liu-xue-shen-qing-ru-men/tuo-fu.md)
@@ -22,7 +23,6 @@
 
 ## 🌎 留学国家
 
-* [湖大21届毕业生去向](liu-xue-guo-jia/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
 * [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
 * [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
 * [🏰 欧陆](liu-xue-guo-jia/ou-lu.md)
