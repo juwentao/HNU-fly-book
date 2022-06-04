@@ -1,9 +1,12 @@
 {
-    "plugins": ["valine"],
+    "plugins": ["disqus","valine"],
     "pluginsConfig": {
         "valine": {
             "appId": "5XbkHGioOBLxOsj4NhdSr35v-gzGzoHsz",
             "appKey": "83dsw2HHtSvLSrYUK2DmIqPG"
-        }
+        },
+        "disqus": {
+        "shortName": "gitbookuse"
+      }
     }
 }
