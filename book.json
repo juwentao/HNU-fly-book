@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus","valine"],
+    "plugins": ["valine","disqus"],
     "pluginsConfig": {
         "valine": {
             "appId": "5XbkHGioOBLxOsj4NhdSr35v-gzGzoHsz",
