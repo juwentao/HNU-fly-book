@@ -1,8 +1,10 @@
-"plugins": [
+{
+    "plugins": [
     "disqus"
 ],
 "pluginsConfig": {
     "disqus": {
         "shortName": "Wentao"
     }
+}
 }
