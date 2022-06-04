@@ -16,7 +16,7 @@
 
 
 
-方法1：在GitHub项目[https://github.com/juwentao/HNU-fly-book](https://github.com/juwentao/HNU-fly-book)中提出Pull Requests
+方法1：将GitHub项目[https://github.com/juwentao/HNU-fly-book](https://github.com/juwentao/HNU-fly-book)fork到自己的账号，更改内容后再提出Pull Requests
 
 方法2：也可以直接发邮件到1985055836@qq.com，注明主题为“飞跃手册”，会及时更新到这里
 
