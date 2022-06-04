@@ -1,10 +1,9 @@
 {
-    "plugins": [
-    "disqus"
-],
-"pluginsConfig": {
-    "disqus": {
-        "shortName": "Wentao"
+    "plugins": ["valine"],
+    "pluginsConfig": {
+        "valine": {
+            "appId": "5XbkHGioOBLxOsj4NhdSr35v-gzGzoHsz",
+            "appKey": "83dsw2HHtSvLSrYUK2DmIqPG"
+        }
     }
-}
 }
