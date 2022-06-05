@@ -8,7 +8,8 @@
 
 ## 出国留学入门
 
-* [🌍 湖大21届毕业生去向](liu-xue-guo-jia/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
+* [🌍 湖大毕业生去向](chu-guo-liu-xue-ru-men/hu-da-21-jie-bi-ye-sheng-qu-xiang/README.md)
+  * [深造学校（分学院）](chu-guo-liu-xue-ru-men/hu-da-21-jie-bi-ye-sheng-qu-xiang/shen-zao-xue-xiao-fen-xue-yuan.md)
 * [💰 留学花费](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 
 ## 申请准备
