@@ -1,6 +1,6 @@
 # 🔤 托福
 
-&#x20;   托福（TOEFL, TEST OF ENGLISH AS FOREIGN LANGUAGE）是由美国教育考试服务中心 （ETS，EDUCATIONAL TEST SERVICE）举办的全球规模的考试，每周都会在考试网点举行。
+&#x20;   托福（TOEFL, TEST OF ENGLISH AS FOREIGN LANGUAGE）是由美国教育考试服务中心（ETS，EDUCATIONAL TEST SERVICE）举办的全球规模的考试，每周都会在考试网点举行。
 
 #### 哪些人要考托福？
 
