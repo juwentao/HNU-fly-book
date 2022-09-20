@@ -6,9 +6,11 @@ description: 这里是欧陆留学内容，欢迎大家来分享干货！
 
 ## 来自18级机械院徐学长（ETH在读）的分享
 
-ETHZ-苏黎世联邦理工    EPFL-洛桑联邦理工
+ETHZ-苏黎世联邦理工
 
-瑞士留学介绍（B站置顶评论已包含ETHZ，EPFL申请链接）：
+EPFL-洛桑联邦理工
+
+瑞士留学介绍（B站置顶评论已包含ETHZ，EPFL申请链接）：[https://www.bilibili.com/video/BV1nR4y1H7RW/](https://www.bilibili.com/video/BV1nR4y1H7RW/)
 
 {% embed url="https://www.bilibili.com/video/BV1nR4y1H7RW/" %}
 
