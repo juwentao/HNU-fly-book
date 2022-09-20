@@ -10,15 +10,15 @@ ETHZ-苏黎世联邦理工    EPFL-洛桑联邦理工
 
 瑞士留学介绍（B站置顶评论已包含ETHZ，EPFL申请链接）：
 
-[https://www.bilibili.com/video/BV1nR4y1H7RW?spm\_id\_from=333.337.search-card.all.click](ou-lu.md#lai-zi-18-ji-ji-xie-yuan-xu-xue-chang-eth-zai-du-de-fen-xiang)
+{% embed url="https://www.bilibili.com/video/BV1nR4y1H7RW/" %}
 
 ETHZ 2021录取学生背景调查：
 
-[https://zhuanlan.zhihu.com/p/362316579](https://zhuanlan.zhihu.com/p/362316579)
+{% embed url="https://zhuanlan.zhihu.com/p/362316579" %}
 
 &#x20;ETHZ 2022录取学生背景调查：
 
-[https://zhuanlan.zhihu.com/p/502052767](https://zhuanlan.zhihu.com/p/502052767)
+{% embed url="https://zhuanlan.zhihu.com/p/502052767" %}
 
 **注：**
 
