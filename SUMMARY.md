@@ -25,12 +25,12 @@
 
 ## 🌎 留学国家
 
-* [🇺🇸 🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
-* [🇬🇧 🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
+* [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
+* [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
 * [🏰 欧陆](liu-xue-guo-jia/ou-lu.md)
-* [🇭🇰 🇭🇰 香港](liu-xue-guo-jia/xiang-gang.md)
-* [🇸🇬 🇸🇬 新加坡](liu-xue-guo-jia/xin-jia-po.md)
-* [🇯🇵 🇯🇵 日本](liu-xue-guo-jia/ri-ben.md)
+* [🇭🇰 香港](liu-xue-guo-jia/xiang-gang.md)
+* [🇸🇬 新加坡](liu-xue-guo-jia/xin-jia-po.md)
+* [🇯🇵 日本](liu-xue-guo-jia/ri-ben.md)
 
 ## 🤘 学长学姐的分享
 
