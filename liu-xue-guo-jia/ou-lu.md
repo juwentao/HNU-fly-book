@@ -31,11 +31,11 @@ ETHZ其他链接：&#x20;
 
 1.开设硕士专业列表：
 
-[https://ethz.ch/en/studies/master/degree-programmes.html](https://ethz.ch/en/studies/master/degree-programmes.html)
+{% embed url="https://ethz.ch/en/studies/master/degree-programmes.html" %}
 
 2.申请所需达到的基本条件：
 
-[https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html](https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html)
+{% embed url="https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html" %}
 
 **注：**
 
