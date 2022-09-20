@@ -6,21 +6,19 @@ description: 这里是欧陆留学内容，欢迎大家来分享干货！
 
 ## 来自18级机械院徐学长（ETH在读）的分享
 
-ETHZ-苏黎世联邦理工
+ETHZ-苏黎世联邦理工    EPFL-洛桑联邦理工
 
-EPFL-洛桑联邦理工
+瑞士留学介绍（B站置顶评论已包含ETHZ，EPFL申请链接）：
 
-瑞士留学介绍（B站置顶评论已包含ETHZ，EPFL申请链接）：[https://www.bilibili.com/video/BV1nR4y1H7RW/](https://www.bilibili.com/video/BV1nR4y1H7RW/)
-
-{% embed url="https://www.bilibili.com/video/BV1nR4y1H7RW/" %}
+[https://www.bilibili.com/video/BV1nR4y1H7RW?spm\_id\_from=333.337.search-card.all.click](ou-lu.md#lai-zi-18-ji-ji-xie-yuan-xu-xue-chang-eth-zai-du-de-fen-xiang)
 
 ETHZ 2021录取学生背景调查：
 
-{% embed url="https://zhuanlan.zhihu.com/p/362316579" %}
+[https://zhuanlan.zhihu.com/p/362316579](https://zhuanlan.zhihu.com/p/362316579)
 
 &#x20;ETHZ 2022录取学生背景调查：
 
-{% embed url="https://zhuanlan.zhihu.com/p/502052767" %}
+[https://zhuanlan.zhihu.com/p/502052767](https://zhuanlan.zhihu.com/p/502052767)
 
 **注：**
 
@@ -33,11 +31,11 @@ ETHZ其他链接：&#x20;
 
 1.开设硕士专业列表：
 
-{% embed url="https://ethz.ch/en/studies/master/degree-programmes.html" %}
+[https://ethz.ch/en/studies/master/degree-programmes.html](https://ethz.ch/en/studies/master/degree-programmes.html)
 
 2.申请所需达到的基本条件：
 
-{% embed url="https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html" %}
+[https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html](https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html)
 
 **注：**
 
@@ -45,4 +43,4 @@ ETHZ其他链接：&#x20;
 
 （2）语言要求C1指总分雅思7，托福100（支持家考和拼分），对于小分均不做要求
 
-**PS：本帖将根据大家的需求不断更新，欢迎大家提问！！！（在706650486这个群里可以找到他）**
+**PS：本帖将根据大家的需求不断更新，欢迎大家提问！！！（在群里可以找到他：706650486）**
