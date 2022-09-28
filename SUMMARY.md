@@ -44,4 +44,4 @@
 
 ***
 
-* [友情链接](you-qing-lian-jie.md)
+* [🔗 友情链接](you-qing-lian-jie.md)
