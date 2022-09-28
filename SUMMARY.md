@@ -13,6 +13,17 @@
 * [💰 留学费用](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 * [🎓 大学排名看哪家？](chu-guo-liu-xue-ru-men/da-xue-pai-ming-kan-na-jia.md)
 
+## 🌎 留学国家
+
+* [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
+* [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
+* [🇭🇰 香港](liu-xue-guo-jia/xiang-gang.md)
+* [🇸🇬 新加坡](liu-xue-guo-jia/xin-jia-po.md)
+* [🏰 欧陆](liu-xue-guo-jia/ou-lu.md)
+* [🇯🇵 日本](liu-xue-guo-jia/ri-ben.md)
+* [🇨🇦 加拿大](liu-xue-guo-jia/jia-na-da.md)
+* [🇦🇺 澳大利亚](liu-xue-guo-jia/ao-da-li-ya.md)
+
 ## 申请准备
 
 * [⚠ 诚信原则](guan-yu-shen-qing/shen-qing-zhun-bei.md)
@@ -22,15 +33,6 @@
 * [🦆 雅思](liu-xue-shen-qing-ru-men/ya-si.md)
 * [🔤 托福](liu-xue-shen-qing-ru-men/tuo-fu.md)
 * [📃 GRE](liu-xue-shen-qing-ru-men/gre.md)
-
-## 🌎 留学国家
-
-* [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
-* [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
-* [🏰 欧陆](liu-xue-guo-jia/ou-lu.md)
-* [🇭🇰 香港](liu-xue-guo-jia/xiang-gang.md)
-* [🇸🇬 新加坡](liu-xue-guo-jia/xin-jia-po.md)
-* [🇯🇵 日本](liu-xue-guo-jia/ri-ben.md)
 
 ## 🤘 学长学姐的分享
 
