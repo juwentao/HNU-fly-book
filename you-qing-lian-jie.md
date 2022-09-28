@@ -1,6 +1,10 @@
 # 🔗 友情链接
 
-北美CS硕士选校网站：https://csmsapp.github.io/
+北美CS硕士选校网站：
 
-本科转学攻略：transferwiki.com
+{% embed url="https://csmsapp.github.io/" %}
+
+本科转学攻略：
+
+{% embed url="https://transferwiki.com/" %}
 
