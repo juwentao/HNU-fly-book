@@ -15,7 +15,7 @@ description: 这里是新加坡留学内容，欢迎大家来分享干货！
 香港中文大学
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="新二" %}
 新加坡国立大学
 
 新加坡南洋理工大学
