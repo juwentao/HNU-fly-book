@@ -41,3 +41,7 @@
 * [💙 林同学-2013届机械院-帝国理工大学](xue-chang-xue-jie-de-fen-xiang/lin-tong-xue-2013-jie-ji-xie-yuan-di-guo-li-gong-da-xue.md)
 * [💜 王同学-2013届机械院-克莱姆森大学](xue-chang-xue-jie-de-fen-xiang/wang-tong-xue-2013-jie-ji-xie-yuan-ke-lai-mu-sen-da-xue.md)
 * [🖤 李同学-2022届电气院-南洋理工大学](xue-chang-xue-jie-de-fen-xiang/li-tong-xue-2022-jie-dian-qi-yuan-nan-yang-li-gong-da-xue.md)
+
+***
+
+* [友情链接](you-qing-lian-jie.md)
