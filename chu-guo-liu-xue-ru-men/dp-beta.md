@@ -50,8 +50,8 @@
 
 <details>
 
-<summary>【19fall】国贸</summary>
+<summary>【19fall】国贸 GPA85 雅思6.5 GMAT650 两段实习</summary>
 
-华威大学
+
 
 </details>
