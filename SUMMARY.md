@@ -15,7 +15,7 @@
 ## 🌠 湖大留学数据参考
 
 * [🏰 每个学院的去向学校统计](hu-da-liu-xue-shu-ju-can-kao/qu-xiang-xue-xiao-fen-xue-yuan.md)
-* [🔨 DP（Beta）](hu-da-liu-xue-shu-ju-can-kao/dp-beta.md)
+* [🔨 录取案例汇总](hu-da-liu-xue-shu-ju-can-kao/lu-qu-an-li-hui-zong.md)
 
 ## 🌎 留学国家
 
