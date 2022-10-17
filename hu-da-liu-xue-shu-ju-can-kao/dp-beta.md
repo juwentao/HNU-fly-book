@@ -38,7 +38,7 @@
 
 <details>
 
-<summary>【19fall】金融 GPA87.4 雅思6.5 GMAT680 一段实习</summary>
+<summary>【19fall】金融 GPA87.4 雅思6.5 GMAT680 一段实习  四年工作经验</summary>
 
 香港中文大学——资讯与科技管理
 
@@ -73,6 +73,14 @@
 <summary>【20fall】统计学 GPA87.75 雅思6.5 一段实习</summary>
 
 香港中文大学（深圳）——金融工程
+
+</details>
+
+<details>
+
+<summary>【20fall】统计学 GPA88.9 雅思6.5</summary>
+
+香港科技大学——金融数学
 
 </details>
 
@@ -116,7 +124,19 @@
 
 <details>
 
-<summary>【20fall】电子科学与技术 GPA79.43 雅思7.0 一段实习</summary>
+<summary>【21fall】电子科学与技术 GPA84.29 托福106 GRE313 一段实习</summary>
+
+南洋理工大学——集成电路设计
+
+南洋理工大学——电子学
+
+南洋理工大学—绿色电子
+
+</details>
+
+<details>
+
+<summary>【20fall】电子科学与技术 GPA79.43 雅思7.0 一段实习 一年工作经验</summary>
 
 南洋理工大学——电子学
 
@@ -134,7 +154,7 @@
 
 <details>
 
-<summary>【19fall】机械设计制造及其自动化 GPA3.37 雅思6.5 两端实习</summary>
+<summary>【19fall】机械设计制造及其自动化 GPA3.37 雅思6.5 两段实习 三年工作经验</summary>
 
 香港大学——机械工程
 
@@ -157,6 +177,14 @@
 <summary>【20fall】车辆工程 GPA3.37 雅思6.0</summary>
 
 香港理工大学——机械工程
+
+</details>
+
+<details>
+
+<summary>【21fall】工业工程 GPA85.82 雅思7.0</summary>
+
+
 
 </details>
 
@@ -200,7 +228,7 @@
 
 <details>
 
-<summary>【19fall】数学与应用数学 GPA73 两段实习一段创业</summary>
+<summary>【19fall】数学与应用数学 GPA73 两段实习一段创业 两年工作经验</summary>
 
 南洋理工大学——管理经济学
 
