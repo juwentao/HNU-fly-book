@@ -1,9 +1,5 @@
 # 🔨 DP（Beta）
 
-### 这里是一些湖大前辈们的案例，点击查看ta的AD
-
-#### 北校：
-
 <details>
 
 <summary>【20fall】财政学 GPA3.0（百分制80.71）一段实习</summary>
@@ -16,11 +12,9 @@
 
 <details>
 
-<summary>【19fall】国贸 GPA85 雅思6.5 GMAT650 两段实习</summary>
+<summary>【20fall】车辆工程 GPA3.37 雅思6.0</summary>
 
-华威大学——商务（市场营销）
-
-曼彻斯特大学——创新管理与创业学
+香港理工大学——机械工程
 
 </details>
 
@@ -38,147 +32,9 @@
 
 <details>
 
-<summary>【19fall】金融 GPA87.4 雅思6.5 GMAT680 一段实习</summary>
-
-香港中文大学——资讯与科技管理
-
-</details>
-
-<details>
-
-<summary>【19fall】金融工程 GPA88 雅思6.5 GRE321+3 两段实习 LSE暑校</summary>
-
-新加坡国立大学——定量金融
-
-</details>
-
-<details>
-
-<summary>【19fall】金融学 GPA87.95 雅思6.5 GMAT670 两段实习</summary>
-
-香港中文大学——经济学
-
-</details>
-
-<details>
-
-<summary>【19fall】金融学 GPA88 雅思6.5 三段实习</summary>
-
-南洋理工大学——管理经济学
-
-</details>
-
-<details>
-
-<summary>【20fall】统计学 GPA87.75 雅思6.5 一段实习</summary>
-
-香港中文大学（深圳）——金融工程
-
-</details>
-
-#### 南校：
-
-<details>
-
-<summary>【19fall】会计学 GPA83.59 雅思7.0 GMAT660 两段实习</summary>
-
-南洋理工大学——会计学
-
-</details>
-
-<details>
-
-<summary>【19fall】会计学(ACCA) GPA85 雅思7.0 三段实习</summary>
-
-华威大学——信息系统管理和数字化创新
-
-</details>
-
-<details>
-
 <summary>【19fall】电气工程 GPA79.3 雅思6 两段实习</summary>
 
 香港理工大学——运筹及风险分析
-
-</details>
-
-<details>
-
-<summary>【19fall】通信工程 GPA78.4 雅思6.5</summary>
-
-南洋理工大学——通信工程
-
-南洋理工大学——信号处理
-
-香港理工大学——电子与信息工程
-
-</details>
-
-<details>
-
-<summary>【20fall】电子科学与技术 GPA79.43 雅思7.0 一段实习</summary>
-
-新南威尔士大学——电气工程
-
-香港科技大学——电子工程
-
-香港理工大学——电子与信息工程
-
-</details>
-
-<details>
-
-<summary>【19fall】机械设计制造及其自动化 GPA3.37 雅思6.5 两端实习</summary>
-
-香港大学——机械工程
-
-香港大学——工业工程与物流管理
-
-香港科技大学——机械工程
-
-</details>
-
-<details>
-
-<summary>【20spring】机械设计制造及其自动化 GPA3.11 雅思6.5 一段实习</summary>
-
-香港科技大学——机械工程
-
-</details>
-
-<details>
-
-<summary>【20fall】车辆工程 GPA3.37 雅思6.0</summary>
-
-香港理工大学——机械工程
-
-</details>
-
-<details>
-
-<summary>【19fall】建筑环境与能源应用工程 GPA88 雅思7.0 GRE324 两段实习</summary>
-
-哥伦比亚大学——企业风险管理
-
-纽约大学——建造管理
-
-纽约大学——房地产
-
-约翰霍普金斯大学——房地产与基础设施
-
-西北大学——项目管理
-
-南加州大学——工程管理
-
-伦敦大学学院——建筑经济学与管理
-
-</details>
-
-<details>
-
-<summary>【20fall】土木工程 GPA82 雅思6.5 一段实习</summary>
-
-香港大学——基础设施项目管理
 
 </details>
 
@@ -194,8 +50,18 @@
 
 <details>
 
-<summary>【19fall】数学与应用数学 GPA73 两段实习一段创业</summary>
+<summary>【19fall】国贸 GPA85 雅思6.5 GMAT650 两段实习</summary>
 
-南洋理工大学——管理经济学
+华威大学——商务（市场营销）
+
+曼彻斯特大学——创新管理与创业学
 
 </details>
+
+| Case | Background | AD | Rej |
+| ---- | ---------- | -- | --- |
+| A    | ……         | 1  | 1   |
+|      |            | 2  | 2   |
+|      |            |    | 3   |
+| B    | ……         | 1  | 1   |
+|      |            |    | 2   |
