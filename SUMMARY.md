@@ -27,13 +27,13 @@
 
 ## 申请准备
 
-* [⚠ 诚信原则](guan-yu-shen-qing/shen-qing-zhun-bei.md)
 * [🎲 DIY OR 中介？](guan-yu-shen-qing/diy-or-zhong-jie.md)
-* [ℹ 湖南大学留学常用信息](guan-yu-shen-qing/hu-nan-da-xue-liu-xue-chang-yong-xin-xi.md)
 * [💯 GPA](liu-xue-shen-qing-ru-men/gpa.md)
 * [🦆 雅思](liu-xue-shen-qing-ru-men/ya-si.md)
 * [🔤 托福](liu-xue-shen-qing-ru-men/tuo-fu.md)
 * [📃 GRE](liu-xue-shen-qing-ru-men/gre.md)
+* [⚠ 诚信原则](guan-yu-shen-qing/shen-qing-zhun-bei.md)
+* [ℹ 湖南大学留学常用信息](guan-yu-shen-qing/hu-nan-da-xue-liu-xue-chang-yong-xin-xi.md)
 
 ## 🤘 学长学姐的分享
 
