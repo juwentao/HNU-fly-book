@@ -182,9 +182,9 @@
 
 <details>
 
-<summary>【21fall】工业工程 GPA85.82 雅思7.0</summary>
+<summary>【21fall】工业工程 GPA85.82 雅思7.0 一段实习</summary>
 
-
+南洋理工大学——供应链和物流
 
 </details>
 
