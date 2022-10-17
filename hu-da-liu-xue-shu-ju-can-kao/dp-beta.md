@@ -38,7 +38,7 @@
 
 <details>
 
-<summary>【21fall】金融 GPA3.48 雅思6.5 一段实习</summary>
+<summary>【22fall】金融 GPA3.48 雅思6.5 一段实习</summary>
 
 南洋理工大学——管理经济学
 
@@ -120,7 +120,7 @@
 
 <details>
 
-<summary>【21fall】财务管理（金融工程） GPA87 雅思7.5</summary>
+<summary>【22fall】财务管理（金融工程） GPA87 雅思7.5</summary>
 
 南洋理工大学——管理经济学
 
@@ -150,7 +150,7 @@
 
 <details>
 
-<summary>【21fall】工商管理 GPA3.56 雅思6.5 一段实习</summary>
+<summary>【22fall】工商管理 GPA3.56 雅思6.5 一段实习</summary>
 
 南洋理工大学——管理经济学
 
@@ -168,7 +168,7 @@
 
 <details>
 
-<summary>【21fall】自动化 GPA84 雅思7.5 GRE330</summary>
+<summary>【22fall】自动化 GPA84 雅思7.5 GRE330</summary>
 
 香港大学——人工智能
 
@@ -313,6 +313,8 @@
 <details>
 
 <summary>【22fall】英语 GPA3.52 托福109 GRE327 一段实习 一篇论文</summary>
+
+香港中文大学——翻译学
 
 香港科技大学——国际语言教育-对外汉语教学
 
