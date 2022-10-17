@@ -98,9 +98,15 @@
 
 <details>
 
-<summary>【19fall】建筑</summary>
+<summary>【19fall】建筑环境与能源应用工程 GPA88 雅思7.0 GRE324 两段实习</summary>
 
+伦敦大学学院——建筑经济学与管理
 
+纽约大学——建造管理
+
+西北大学——项目管理
+
+约翰霍普金斯
 
 </details>
 
