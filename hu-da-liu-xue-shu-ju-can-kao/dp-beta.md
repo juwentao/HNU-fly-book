@@ -116,6 +116,38 @@
 
 </details>
 
+<details>
+
+<summary>【19fall】金融 GPA87.4 雅思6.5 GMAT680 一段实习</summary>
+
+香港中文大学——资讯与科技管理
+
+</details>
+
+<details>
+
+<summary>【19fall】金融工程 GPA88 雅思6.5 GRE321+3 两段实习 LSE暑校</summary>
+
+新加坡国立大学——定量金融
+
+</details>
+
+<details>
+
+<summary>【19fall】金融学 GPA87.95 雅思6.5 GMAT670 两段实习</summary>
+
+香港中文大学——经济学
+
+</details>
+
+<details>
+
+<summary>【19fall】金融学 GPA88 雅思6.5 三段实习</summary>
+
+南洋理工大学——管理经济学
+
+</details>
+
 | Case | Background | AD | Rej |
 | ---- | ---------- | -- | --- |
 | A    | ……         | 1  | 1   |
