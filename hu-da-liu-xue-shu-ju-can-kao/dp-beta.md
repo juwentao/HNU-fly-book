@@ -94,6 +94,8 @@
 
 </details>
 
+#### 南校：
+
 <details>
 
 <summary>【19fall】会计学 GPA83.59 雅思7.0 GMAT660 两段实习</summary>
@@ -109,8 +111,6 @@
 华威大学——信息系统管理和数字化创新
 
 </details>
-
-#### 南校：
 
 <details>
 
