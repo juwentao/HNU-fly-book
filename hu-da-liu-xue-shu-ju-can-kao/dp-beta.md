@@ -1,6 +1,6 @@
 # 🔨 DP（Beta）
 
-这里是一些参考案例，点击查看ta的AD
+### 这里是一些湖大前辈们的案例，点击查看ta的AD
 
 <details>
 
@@ -65,6 +65,42 @@
 <summary>【19fall】会计学 GPA83.59 雅思7.0 GMAT660 两段实习</summary>
 
 南洋理工大学——会计学
+
+</details>
+
+<details>
+
+<summary>【19fall】会计学(ACCA) GPA85 雅思7.0 三段实习</summary>
+
+华威大学——信息系统管理和数字化创新
+
+</details>
+
+<details>
+
+<summary>【19fall】机械设计制造及其自动化 GPA3.37 雅思6.5 两端实习</summary>
+
+香港大学——机械工程
+
+香港大学——工业工程与物流管理
+
+香港科技大学——机械工程
+
+</details>
+
+<details>
+
+<summary>【20spring】机械设计制造及其自动化 GPA3.11 雅思6.5 一段实习</summary>
+
+香港科技大学——机械工程
+
+</details>
+
+<details>
+
+<summary>【19fall】建筑</summary>
+
+
 
 </details>
 
