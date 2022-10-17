@@ -148,10 +148,10 @@
 
 </details>
 
-| Case | Background | AD | Rej |
-| ---- | ---------- | -- | --- |
-| A    | ……         | 1  | 1   |
-|      |            | 2  | 2   |
-|      |            |    | 3   |
-| B    | ……         | 1  | 1   |
-|      |            |    | 2   |
+<details>
+
+<summary>【19fall】数学与应用数学 GPA73 两段实习一段创业</summary>
+
+南洋理工大学——管理经济学
+
+</details>
