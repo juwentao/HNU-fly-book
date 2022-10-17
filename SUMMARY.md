@@ -9,10 +9,13 @@
 ## 出国留学入门
 
 * [🌍 留学概况](chu-guo-liu-xue-ru-men/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
-  * [🏰 ★每个学院的去向学校统计](chu-guo-liu-xue-ru-men/qu-xiang-xue-xiao-fen-xue-yuan.md)
-  * [🔨 DP（Beta）](chu-guo-liu-xue-ru-men/dp-beta.md)
 * [💰 留学费用](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 * [🎓 大学排名看哪家？](chu-guo-liu-xue-ru-men/da-xue-pai-ming-kan-na-jia.md)
+
+## 🌠 湖大留学数据参考
+
+* [🏰 每个学院的去向学校统计](hu-da-liu-xue-shu-ju-can-kao/qu-xiang-xue-xiao-fen-xue-yuan.md)
+* [🔨 DP（Beta）](hu-da-liu-xue-shu-ju-can-kao/dp-beta.md)
 
 ## 🌎 留学国家
 
