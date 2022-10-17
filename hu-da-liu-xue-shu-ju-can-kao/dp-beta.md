@@ -1,5 +1,7 @@
 # 🔨 DP（Beta）
 
+这里是一些参考案例，点击查看ta的AD
+
 <details>
 
 <summary>【20fall】财政学 GPA3.0（百分制80.71）一段实习</summary>
@@ -55,6 +57,14 @@
 华威大学——商务（市场营销）
 
 曼彻斯特大学——创新管理与创业学
+
+</details>
+
+<details>
+
+<summary>【19fall】会计学 GPA83.59 雅思7.0 GMAT660 两段实习</summary>
+
+南洋理工大学——会计学
 
 </details>
 
