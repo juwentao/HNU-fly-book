@@ -118,6 +118,8 @@
 
 香港中文大学（深圳）——金融学
 
+南洋理工大学——应用经济学
+
 </details>
 
 <details>
@@ -130,6 +132,14 @@
 
 <details>
 
+<summary>【21fall】自动化 GPA84 雅思7.5 GRE330</summary>
+
+香港大学——人工智能
+
+</details>
+
+<details>
+
 <summary>【19fall】通信工程 GPA78.4 雅思6.5</summary>
 
 南洋理工大学——通信工程
@@ -137,6 +147,14 @@
 南洋理工大学——信号处理
 
 香港理工大学——电子与信息工程
+
+</details>
+
+<details>
+
+<summary>【21fall】软件工程 GPA84.34 雅思6.5</summary>
+
+香港中文大学——计算机科学
 
 </details>
 
