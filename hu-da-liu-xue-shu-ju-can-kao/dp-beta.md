@@ -104,6 +104,24 @@
 
 <details>
 
+<summary>【21fall】财务管理（金融工程） GPA86.08 雅思7.0 两段实习</summary>
+
+新加坡国立大学——定量金融
+
+</details>
+
+<details>
+
+<summary>【21fall】工商管理 GPA87 雅思7.0 四段实习</summary>
+
+香港大学——经济学
+
+香港中文大学（深圳）——金融学
+
+</details>
+
+<details>
+
 <summary>【19fall】电气工程 GPA79.3 雅思6 两段实习</summary>
 
 香港理工大学——运筹及风险分析
@@ -185,6 +203,10 @@
 <summary>【21fall】工业工程 GPA85.82 雅思7.0 一段实习</summary>
 
 南洋理工大学——供应链和物流
+
+香港大学——工业工程与物流管理
+
+香港科技大学——工程企业管理
 
 </details>
 
