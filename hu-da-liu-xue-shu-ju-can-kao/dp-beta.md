@@ -124,6 +124,24 @@
 
 <details>
 
+<summary>【21fall】工商管理 GPA3.6 雅思7.0 三段实习</summary>
+
+南洋理工大学——管理经济学
+
+</details>
+
+<details>
+
+<summary>【21fall】工商管理 GPA3.56 雅思6.5 一段实习</summary>
+
+南洋理工大学——管理经济学
+
+南洋理工大学——科技创业与创新（英文授课）
+
+</details>
+
+<details>
+
 <summary>【19fall】电气工程 GPA79.3 雅思6 两段实习</summary>
 
 香港理工大学——运筹及风险分析
