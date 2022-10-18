@@ -274,6 +274,14 @@
 
 <details>
 
+<summary>【22fall】能源与动力工程 GPA3.04 雅思6.5 三年以上工作经验</summary>
+
+香港浸会大学——环境与公共卫生管理
+
+</details>
+
+<details>
+
 <summary>【19fall】建筑环境与能源应用工程 GPA88 雅思7.0 GRE324 两段实习</summary>
 
 哥伦比亚大学——企业风险管理
