@@ -96,6 +96,14 @@
 
 <details>
 
+<summary>【22fall】会计学 GPA83.92 一段实习</summary>
+
+南洋理工大学——管理经济学（中文授课）
+
+</details>
+
+<details>
+
 <summary>【19fall】会计学 GPA83.59 雅思7.0 GMAT660 两段实习</summary>
 
 南洋理工大学——会计学
