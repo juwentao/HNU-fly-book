@@ -30,7 +30,7 @@ coverY: 0
 因为南校一直没有一个活跃的留学群，大家基本都是在孤军奋战，所以我自己建了一个QQ群，希望能帮到大家，有问必答，信息共享，欢迎加入讨论！
 
 {% hint style="info" %}
-<mark style="color:blue;">**HNU飞跃群号：706650486**</mark>
+<mark style="color:blue;">**HNU留学交流群：706650486**</mark>
 {% endhint %}
 
 ####
