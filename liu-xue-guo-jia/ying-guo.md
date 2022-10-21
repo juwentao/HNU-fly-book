@@ -20,7 +20,7 @@ description: 这里是英国留学内容，欢迎大家来分享干货！
 
 ## 英国的罗素大学联盟
 
-罗素集团盟校包括（大家能录的英国大学都在这里了）：
+罗素集团盟校包括（<mark style="color:red;">大家能录的英国大学都在这里了</mark>）：
 
 Tier0——6所[金三角名校](https://baike.baidu.com/item/%E9%87%91%E4%B8%89%E8%A7%92%E5%90%8D%E6%A0%A1/9119240?fromModule=lemma\_inlink)（[剑桥大学](https://baike.baidu.com/item/%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6/278542?fromModule=lemma\_inlink)、[牛津大学](https://baike.baidu.com/item/%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6/247247?fromModule=lemma\_inlink)、[帝国理工学院](https://baike.baidu.com/item/%E5%B8%9D%E5%9B%BD%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2/2317037?fromModule=lemma\_inlink)、[伦敦大学学院](https://baike.baidu.com/item/%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%AD%A6%E5%AD%A6%E9%99%A2/325705?fromModule=lemma\_inlink)、[伦敦政治经济学院](https://baike.baidu.com/item/%E4%BC%A6%E6%95%A6%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2/325824?fromModule=lemma\_inlink)、[伦敦国王学院](https://baike.baidu.com/item/%E4%BC%A6%E6%95%A6%E5%9B%BD%E7%8E%8B%E5%AD%A6%E9%99%A2/6372369?fromModule=lemma\_inlink)）
 
