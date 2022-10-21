@@ -196,6 +196,26 @@ description: 有录取案例的uu可以加QQ1985055836，会马上更新到这�
 
 <details>
 
+<summary>【22fall】计算机科学与技术 GPA3.71 Rank 3% 托福109（S25）一篇CCFA</summary>
+
+Purdue——PhD
+
+UCI——PhD
+
+UMN——PhD
+
+Rutgers——PhD
+
+BU——PhD
+
+Buffalo——PhD
+
+Umich——MS
+
+</details>
+
+<details>
+
 <summary>【19fall】通信工程 GPA78.4 雅思6.5</summary>
 
 南洋理工大学——通信工程
