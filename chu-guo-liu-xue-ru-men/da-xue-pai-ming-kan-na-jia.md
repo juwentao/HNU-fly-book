@@ -14,7 +14,7 @@
 
 
 
-<mark style="color:blue;">PS：我们湖南大学的2023QS世界排名为591\~600，USNEWS世界排名195（内地第11，还是比较高的）</mark>
+<mark style="color:blue;">PS：我们湖南大学的2023QS世界排名为591\~600，2023USNEWS世界排名168（内地第12，还是比较高的）</mark>
 
 ## QS排名
 
