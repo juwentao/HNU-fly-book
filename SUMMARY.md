@@ -9,12 +9,12 @@
 ## 出国留学入门
 
 * [📌 出国留学的意义是什么](chu-guo-liu-xue-ru-men/chu-guo-liu-xue-de-yi-yi-shi-shi-mo.md)
-* [🌍 留学概况](chu-guo-liu-xue-ru-men/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
 * [💰 留学费用](liu-xue-shen-qing-ru-men/liu-xue-qing-kuang-gai-lan.md)
 * [🎓 大学排名看哪家？](chu-guo-liu-xue-ru-men/da-xue-pai-ming-kan-na-jia.md)
 
 ## 湖大留学数据参考
 
+* [📉 湖大2021年留学官方数据](hu-da-liu-xue-shu-ju-can-kao/hu-da-21-jie-bi-ye-sheng-qu-xiang.md)
 * [🏫 每个学院的去向学校统计](hu-da-liu-xue-shu-ju-can-kao/qu-xiang-xue-xiao-fen-xue-yuan.md)
 * [🌠 录取案例汇总](hu-da-liu-xue-shu-ju-can-kao/dp-beta.md)
 
