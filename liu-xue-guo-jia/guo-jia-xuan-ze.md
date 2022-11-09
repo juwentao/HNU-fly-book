@@ -1,4 +1,20 @@
 # 国家选择
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="select"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>1</td><td>2</td><td>3</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td>5<span data-gb-custom-inline data-tag="emoji" data-code="1f389">🎉</span></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-type="number">g585</th><th data-type="checkbox">checkbox0</th><th data-type="select" data-multiple></th><th data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1</td><td>2</td><td>true</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center"></td><td>5</td><td>false</td><td></td><td></td><td></td></tr><tr><td align="center">Ireland</td><td>null</td><td>false</td><td></td><td></td><td><a href="ying-guo.md">ying-guo.md</a></td></tr></tbody></table>
+
+<details>
+
+<summary>55</summary>
+
+55
+
+235
+
+
+
+
+
+</details>
 
