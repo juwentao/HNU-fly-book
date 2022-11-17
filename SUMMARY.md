@@ -22,14 +22,14 @@
 ## 🌎 留学国家
 
 * [国家如何选择](liu-xue-guo-jia/guo-jia-xuan-ze.md)
-* [🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
-* [🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
-* [🇭🇰 香港](liu-xue-guo-jia/xiang-gang.md)
-* [🇸🇬 新加坡](liu-xue-guo-jia/xin-jia-po.md)
-* [🇦🇺 澳大利亚](liu-xue-guo-jia/ao-da-li-ya.md)
+* [🇺🇸 🇺🇸 美国](liu-xue-guo-jia/mei-guo.md)
+* [🇬🇧 🇬🇧 英国](liu-xue-guo-jia/ying-guo.md)
+* [🇭🇰 🇭🇰 香港](liu-xue-guo-jia/xiang-gang.md)
+* [🇸🇬 🇸🇬 新加坡](liu-xue-guo-jia/xin-jia-po.md)
+* [🇦🇺 🇦🇺 澳大利亚](liu-xue-guo-jia/ao-da-li-ya.md)
 * [🏰 欧陆](liu-xue-guo-jia/ou-lu.md)
-* [🇯🇵 日本](liu-xue-guo-jia/ri-ben.md)
-* [🇨🇦 加拿大](liu-xue-guo-jia/jia-na-da.md)
+* [🇯🇵 🇯🇵 日本](liu-xue-guo-jia/ri-ben.md)
+* [🇨🇦 🇨🇦 加拿大](liu-xue-guo-jia/jia-na-da.md)
 
 ## 申请准备
 
