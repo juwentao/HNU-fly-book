@@ -1,8 +1,12 @@
 ---
-description: 有录取案例的uu可以加QQ1985055836，会马上更新到这里
+description: 有录取案例的uu可以用下面的方法更新到这里
 ---
 
 # 🌠 录取案例汇总
+
+* 方法1：发送QQ消息至1985055836
+* 方法2：发送邮件至邮箱1985055836@qq.com
+* 方法3：此方法需要GitHub账号和翻墙，点击右上角的“在GitHub上编辑”，登录你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
 
 ### 这里是一些湖大学长学姐们的案例，点击查看ta的AD
 
@@ -10,7 +14,17 @@ description: 有录取案例的uu可以加QQ1985055836，会马上更新到这�
 
 每个人都有不同的背景，请大家不用严格对号入座！
 
-#### 北校：
+{% hint style="info" %}
+## 2022年专区（截止到11月17日）
+{% endhint %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>虚位以待……</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+##
+
+## 北校：
 
 <details>
 
@@ -124,7 +138,7 @@ description: 有录取案例的uu可以加QQ1985055836，会马上更新到这�
 
 </details>
 
-#### 南校：
+## 南校：
 
 <details>
 
