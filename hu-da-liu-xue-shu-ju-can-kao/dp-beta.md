@@ -10,7 +10,17 @@ description: 有录取案例的uu可以加QQ1985055836，会马上更新到这�
 
 每个人都有不同的背景，请大家不用严格对号入座！
 
-#### 北校：
+{% hint style="info" %}
+## 2022年专区（截止到11月17日）
+{% endhint %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>虚位以待……</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+##
+
+## 北校：
 
 <details>
 
@@ -124,7 +134,7 @@ description: 有录取案例的uu可以加QQ1985055836，会马上更新到这�
 
 </details>
 
-#### 南校：
+## 南校：
 
 <details>
 
