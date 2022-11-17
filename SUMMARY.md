@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⭐ 序](README.md)
+* [🧑💻 更新日志](geng-xin-ri-zhi.md)
 
 ## ❤ 写在前面
 
