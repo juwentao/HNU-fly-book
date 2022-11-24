@@ -92,6 +92,16 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 <details>
 
+<summary>金融 GPA86 雅思6.5</summary>
+
+新加坡国立大学——统计学
+
+南洋理工大学——金融学
+
+</details>
+
+<details>
+
 <summary>【19fall】金融工程 GPA88 雅思6.5 GRE321+3 两段实习 LSE暑校</summary>
 
 新加坡国立大学——定量金融
