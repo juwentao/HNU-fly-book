@@ -220,6 +220,14 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 <details>
 
+<summary>工商管理 GPA3.61 六级495 两段实习</summary>
+
+南洋理工大学——管理经济学（中文授课）
+
+</details>
+
+<details>
+
 <summary>【19fall】电气工程 GPA79.3 雅思6 两段实习</summary>
 
 香港理工大学——运筹及风险分析
@@ -407,6 +415,14 @@ Umich——MS
 <summary>数学与应用数学 GPA89 雅思7</summary>
 
 伦敦政治经济学院——金融数学
+
+</details>
+
+<details>
+
+<summary>材料科学与工程 GPA81.92</summary>
+
+爱丁堡大学——高级化学工程
 
 </details>
 
