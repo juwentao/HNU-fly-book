@@ -48,6 +48,14 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 <details>
 
+<summary>国贸 GPA83 雅思7.5 GMAT720</summary>
+
+香港中文大学——市场营销
+
+</details>
+
+<details>
+
 <summary>【19fall】保险 GPA86.85 雅思7 GMAT680 三段实习</summary>
 
 杜伦大学——金融（国际银行与金融）
@@ -55,6 +63,14 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 曼彻斯特大学——人力资源管理和劳资关系
 
 利兹大学——精算金融理学
+
+</details>
+
+<details>
+
+<summary>保险 GPA76 六级487</summary>
+
+莱斯特大学——市场营销
 
 </details>
 
@@ -373,6 +389,14 @@ Umich——MS
 <summary>【19fall】数学与应用数学 GPA73 两段实习一段创业 两年工作经验</summary>
 
 南洋理工大学——管理经济学
+
+</details>
+
+<details>
+
+<summary>数学与应用数学 GPA89 雅思7</summary>
+
+伦敦政治经济学院——金融数学
 
 </details>
 
