@@ -48,6 +48,14 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 <details>
 
+<summary>国贸 GPA83 雅思7.5 GMAT720</summary>
+
+香港中文大学——市场营销
+
+</details>
+
+<details>
+
 <summary>【19fall】保险 GPA86.85 雅思7 GMAT680 三段实习</summary>
 
 杜伦大学——金融（国际银行与金融）
@@ -55,6 +63,14 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 曼彻斯特大学——人力资源管理和劳资关系
 
 利兹大学——精算金融理学
+
+</details>
+
+<details>
+
+<summary>保险 GPA76 六级487</summary>
+
+莱斯特大学——市场营销
 
 </details>
 
@@ -71,6 +87,16 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 <summary>【19fall】金融 GPA87.4 雅思6.5 GMAT680 一段实习  四年工作经验</summary>
 
 香港中文大学——资讯与科技管理
+
+</details>
+
+<details>
+
+<summary>金融 GPA86 雅思6.5</summary>
+
+新加坡国立大学——统计学
+
+南洋理工大学——金融学
 
 </details>
 
@@ -194,6 +220,14 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 <details>
 
+<summary>工商管理 GPA3.61 六级495 两段实习</summary>
+
+南洋理工大学——管理经济学（中文授课）
+
+</details>
+
+<details>
+
 <summary>【19fall】电气工程 GPA79.3 雅思6 两段实习</summary>
 
 香港理工大学——运筹及风险分析
@@ -277,6 +311,24 @@ Umich——MS
 香港科技大学——集成电路设计工程
 
 香港理工大学——电子与信息工程
+
+</details>
+
+<details>
+
+<summary>【22fall】应用物理 GPA3.12 雅思6.0 两个线上项目</summary>
+
+利兹大学
+
+香港城市大学
+
+伦敦国王学院
+
+新加坡国立大学
+
+香港科技大学（广州）——Mphil
+
+澳门大学——PhD（最终去向）
 
 </details>
 
@@ -373,6 +425,22 @@ Umich——MS
 <summary>【19fall】数学与应用数学 GPA73 两段实习一段创业 两年工作经验</summary>
 
 南洋理工大学——管理经济学
+
+</details>
+
+<details>
+
+<summary>数学与应用数学 GPA89 雅思7</summary>
+
+伦敦政治经济学院——金融数学
+
+</details>
+
+<details>
+
+<summary>材料科学与工程 GPA81.92</summary>
+
+爱丁堡大学——高级化学工程
 
 </details>
 
