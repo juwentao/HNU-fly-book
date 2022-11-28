@@ -12,4 +12,4 @@ description: 这里可以留下任何与留学相关的内容
 
 也可以是对这个手册的评论、看法、建议，要补充的内容……
 
-{% embed url="https://docs.google.com/document/d/1G_w2_wvsXRVOcY789yGlaEj4S74oAmw6qN1617S3itE/edit?usp=sharing" %}
+{% embed url="https://docs.qq.com/doc/DRExjVXpOZHhpdEVH" %}
