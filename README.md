@@ -19,7 +19,7 @@ coverY: 0
 
 * **方法1**：发送QQ消息至1985055836
 * **方法2**：发送邮件至邮箱1985055836@qq.com
-* **方法3**：此方法需要注册GitHub账号和翻墙，点击需要编辑页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
+* **方法3**：直接通过GitHub编辑此网站（此方法需要注册GitHub账号和翻墙）：点击需要编辑页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
 
 ## 关于群
 
