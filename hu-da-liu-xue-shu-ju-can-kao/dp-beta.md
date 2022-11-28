@@ -6,7 +6,7 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 * **方法1**：发送QQ消息至1985055836
 * **方法2**：发送邮件至邮箱1985055836@qq.com
-* **方法3**：直接通过GitHub编辑此网站（此方法需要注册GitHub账号和翻墙）：点击这个页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
+* **方法3**：此方法需要注册GitHub账号和翻墙，点击这个页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
 
 ### 这里是一些湖大学长学姐们的案例，点击查看ta的AD
 
