@@ -19,7 +19,7 @@ coverY: 0
 
 * **方法1**：发送QQ消息至1985055836
 * **方法2**：发送邮件至邮箱1985055836@qq.com
-* **方法3**：此方法需要注册GitHub账号和翻墙，点击需要编辑页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
+* **方法3**：直接通过GitHub编辑此网站（此方法需要注册GitHub账号和翻墙）：点击需要编辑页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
 
 ## 关于群
 
@@ -29,9 +29,11 @@ coverY: 0
 
 因为南校一直没有一个活跃的留学群，大家基本都是在孤军奋战，所以我自己建了一个QQ群，希望能帮到大家，有问必答，信息共享，欢迎加入讨论！
 
-{% hint style="info" %}
-<mark style="color:blue;">**HNU留学交流群：706650486**</mark>
+{% hint style="success" %}
+<mark style="color:green;">**HNU留学社群：706650486**</mark>
 {% endhint %}
+
+<figure><img src=".gitbook/assets/QQ图片20221219225246 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ####
 
