@@ -2,6 +2,10 @@
 
 （1）成绩单：见GPA专栏
 
+{% content-ref url="../liu-xue-shen-qing-ru-men/gpa.md" %}
+[gpa.md](../liu-xue-shen-qing-ru-men/gpa.md)
+{% endcontent-ref %}
+
 （2）教务处：盖章等，在行政楼 102、104
 
 （3）国际交流合作处：体育馆那里的留学生公寓一楼
