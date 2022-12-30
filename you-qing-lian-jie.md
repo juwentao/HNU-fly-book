@@ -8,3 +8,7 @@
 
 {% embed url="https://transferwiki.com/" %}
 
+2013版飞跃手册：
+
+{% file src=".gitbook/assets/湖南大学飞跃手册--2013最终版.pdf" %}
+

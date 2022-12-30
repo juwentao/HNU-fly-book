@@ -4,10 +4,6 @@
 * [🧑💻 更新日志](geng-xin-ri-zhi.md)
 * [💬 留言墙](liu-yan-qiang.md)
 
-## ❤ 写在前面
-
-* [💡 条条大路通罗马](xie-zai-qian-mian/tiao-tiao-da-lu-tong-luo-ma.md)
-
 ## 出国留学入门
 
 * [📌 出国留学的意义是什么](chu-guo-liu-xue-ru-men/chu-guo-liu-xue-de-yi-yi-shi-shi-mo.md)
@@ -44,6 +40,7 @@
 
 ## 🤘 学长学姐的分享
 
+* [💡 《条条大路通罗马》](xue-chang-xue-jie-de-fen-xiang/tiao-tiao-da-lu-tong-luo-ma.md)
 * [❤ 贾同学-2010届-德克萨斯大学](xue-chang-xue-jie-de-fen-xiang/jia-tong-xue-2010-jie-de-ke-sa-si-da-xue.md)
 * [🧡 吴同学-2013届人文李达班-哥伦比亚大学](xue-chang-xue-jie-de-fen-xiang/wu-tong-xue-2013-jie-ren-wen-li-da-ban-ge-lun-bi-ya-da-xue.md)
 * [💛 肖同学-2013届电气院-亚利桑那州立大学](xue-chang-xue-jie-de-fen-xiang/xiao-tong-xue-2013-jie-dian-qi-yuan-ya-li-sang-na-zhou-li-da-xue.md)
