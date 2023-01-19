@@ -14,15 +14,32 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 每个人都有不同的背景，请大家不用严格对号入座！
 
+
+
 {% hint style="info" %}
 ## 19级同学专区（23fall）
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>虚位以待……</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+| 专业 | GPA | 托福 | GRE | 经历 | 录取/拒绝 |
+| -- | --- | -- | --- | -- | ----- |
+|    |     |    |     |    |       |
+|    |     |    |     |    |       |
+
+<details>
+
+<summary>【23fall】 经济学 GPA85.4（3.53）托福107 GRE322+3.5 三段实习</summary>
+
+香港大学——经济学
+
+香港中文大学（深圳）——经济学
+
+</details>
 
 
 
-##
+
+
+
 
 ## 北校：
 
