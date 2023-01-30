@@ -37,6 +37,18 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 </details>
 
+<details>
+
+<summary>【23fall】计算机科学与技术 GPA85.03 托福103 一段实习 一篇论文</summary>
+
+香港大学——MSc in Computer Science
+
+香港城市大学——MSc in Information Engineering
+
+香港科技大学——MSc in Big Data Technology
+
+</details>
+
 
 
 
