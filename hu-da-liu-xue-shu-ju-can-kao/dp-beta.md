@@ -10,9 +10,13 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 ### 这里是一些湖大学长学姐们的案例，点击查看ta的AD
 
-以下仅为目前已知的案例，主要是港新，可能会有一些bias，仅供参考！
+
+
+{% hint style="danger" %}
+以下为目前已知的案例，可能会有一些bias，仅供参考！
 
 每个人都有不同的背景，请大家不用严格对号入座！
+{% endhint %}
 
 
 
@@ -49,17 +53,17 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 </details>
 
-> 城乡规划gpa3.5 托福108 gre326/写作4.0 三段实习一段城市规划设计研究院 一段地产开发 一段底部券商投行
+> #### 城乡规划gpa3.5 托福108 gre326/写作4.0 三段实习一段城市规划设计研究院 一段地产开发 一段底部券商投行
 >
-> 现在拿到约翰霍普金斯 Carey商学院ms real estate and infrastructure 哥伦比亚大学GSAPP ms real estate development（GSAPP是哥大的研究生建筑学院）
+> #### 现在拿到约翰霍普金斯 Carey商学院ms real estate and infrastructure 哥伦比亚大学GSAPP ms real estate development（GSAPP是哥大的研究生建筑学院）
 >
-> 收到了lse地理学院的real estate economics and finance 和ucl 巴特莱特学院real estate economics and investment analysis项目的拒信
+> #### 收到了lse地理学院的real estate economics and finance 和ucl 巴特莱特学院real estate economics and investment analysis项目的拒信
 
+> #### 数学院，信息与计算科学，均分83，一篇文章三段实习一个专利，offer有南安/谢菲/格拉斯哥的应用数学，浸会数据分析与人工智能，港理工imt（全称叫啥我忘了反正没去）
 
-
-
-
-
+{% hint style="info" %}
+## 以下为往届案例
+{% endhint %}
 
 ## 北校：
 
