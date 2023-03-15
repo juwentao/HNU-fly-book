@@ -49,6 +49,12 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 
 </details>
 
+> 城乡规划gpa3.5 托福108 gre326/写作4.0 三段实习一段城市规划设计研究院 一段地产开发 一段底部券商投行
+>
+> 现在拿到约翰霍普金斯 Carey商学院ms real estate and infrastructure 哥伦比亚大学GSAPP ms real estate development（GSAPP是哥大的研究生建筑学院）
+>
+> 收到了lse地理学院的real estate economics and finance 和ucl 巴特莱特学院real estate economics and investment analysis项目的拒信
+
 
 
 
