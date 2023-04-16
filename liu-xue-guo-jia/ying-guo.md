@@ -30,9 +30,9 @@ Tier2——2所苏格兰大学（[爱丁堡大学](https://baike.baidu.com/item/
 
 Tier3——以及其他8所英格兰大学（[伦敦玛丽女王大学](https://baike.baidu.com/item/%E4%BC%A6%E6%95%A6%E7%8E%9B%E4%B8%BD%E5%A5%B3%E7%8E%8B%E5%A4%A7%E5%AD%A6/17189117?fromModule=lemma\_inlink)、[诺丁汉大学](https://baike.baidu.com/item/%E8%AF%BA%E4%B8%81%E6%B1%89%E5%A4%A7%E5%AD%A6/324318?fromModule=lemma\_inlink)、[南安普顿大学](https://baike.baidu.com/item/%E5%8D%97%E5%AE%89%E6%99%AE%E9%A1%BF%E5%A4%A7%E5%AD%A6/2066399?fromModule=lemma\_inlink)、[纽卡斯尔大学](https://baike.baidu.com/item/%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E5%A4%A7%E5%AD%A6/4191?fromModule=lemma\_inlink)、[华威大学](https://baike.baidu.com/item/%E5%8D%8E%E5%A8%81%E5%A4%A7%E5%AD%A6/325462?fromModule=lemma\_inlink)、[杜伦大学](https://baike.baidu.com/item/%E6%9D%9C%E4%BC%A6%E5%A4%A7%E5%AD%A6/5400122?fromModule=lemma\_inlink)、[埃克塞特大学](https://baike.baidu.com/item/%E5%9F%83%E5%85%8B%E5%A1%9E%E7%89%B9%E5%A4%A7%E5%AD%A6/9690168?fromModule=lemma\_inlink)、[约克大学](https://baike.baidu.com/item/%E7%BA%A6%E5%85%8B%E5%A4%A7%E5%AD%A6/18029856?fromModule=lemma\_inlink)）
 
-****
 
-**注：**英国留学圈经常说的“王曼爱华”，是**伦敦国王学院、曼彻斯特大学、爱丁堡大学**和**华威大学**四校组合的“昵称”，主要是因为**王曼爱华对中国学生真的太友好了！**:smile:****
+
+**注：**英国留学圈经常说的“王曼爱华”，是**伦敦国王学院、曼彻斯特大学、爱丁堡大学**和**华威大学**四校组合的“昵称”，主要是因为**王曼爱华对中国学生真的太友好了！**:smile:
 
 ## **注意：**
 
