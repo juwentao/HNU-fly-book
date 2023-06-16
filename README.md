@@ -23,7 +23,11 @@ coverY: 0
 <mark style="color:green;">**HNU留学社群：706650486**</mark>
 {% endhint %}
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/QQ图片20221219225246 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 关于本书内容更新
 

@@ -8,26 +8,17 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 * **方法2**：发送邮件至邮箱1985055836@qq.com
 * **方法3**：<mark style="background-color:orange;">直接通过GitHub编辑此网站</mark>（此方法需要注册GitHub账号和翻墙）：点击这个页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
 
-### 下面是一些学长学姐们的案例，点击查看ta的录取情况
-
-
+### 这里是学长学姐们的案例，点击查看ta的录取情况
 
 {% hint style="danger" %}
-以下为目前已知的案例，可能会有一些bias，仅供参考！
+以下仅为目前已知的案例，并不是全部，可能会有一些bias，仅供参考！
 
 每个人都有不同的背景，请大家不用严格对号入座！
 {% endhint %}
 
-
-
 {% hint style="info" %}
-## 19级同学专区（23fall）
+## 2023fall专区
 {% endhint %}
-
-| 专业 | GPA | 托福 | GRE | 经历 | 录取/拒绝 |
-| -- | --- | -- | --- | -- | ----- |
-|    |     |    |     |    |       |
-|    |     |    |     |    |       |
 
 <details>
 
@@ -65,9 +56,7 @@ description: 有录取案例的uu可以用下面的方法更新到这里
 >
 > #### ad：塔夫茨 伯明翰 南安普顿 悉尼 新南威尔士 昆士兰
 
-{% hint style="info" %}
-## 以下为往届案例
-{% endhint %}
+<figure><img src="../.gitbook/assets/QQ图片20230616150400.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 北校：
 
