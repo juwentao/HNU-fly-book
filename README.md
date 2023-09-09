@@ -25,9 +25,15 @@ coverY: 0
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/QQ图片20221219225246 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/QQ图片20221219225246 (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="success" %}
+湖南大学24fall美国群 请加微信：qq1985055836
+{% endhint %}
+
+***
 
 ## 关于本书内容更新
 
@@ -36,8 +42,9 @@ coverY: 0
 <mark style="color:purple;">如果你有任何关于留学的心得、经历、感受可以和大家分享，都可以用下面的方法对本书内容进行更新，如果对本书内容有任何问题或建议，也欢迎提出，谢谢！</mark>
 
 * **方法1**：发送QQ消息至1985055836
-* **方法2**：发送邮件至邮箱1985055836@qq.com
-* **方法3**：**直接通过GitHub编辑此网站**（此方法需要注册GitHub账号和翻墙）：点击需要编辑的页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
+* **方法2**：**直接通过GitHub编辑此网站**（此方法需要注册GitHub账号和翻墙）：点击需要编辑的页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
+
+
 
 #### 声明
 
