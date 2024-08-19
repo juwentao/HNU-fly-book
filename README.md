@@ -27,8 +27,8 @@ layout:
 
 ## 湖大留学社群
 
-{% hint style="info" %}
-<mark style="color:blue;">**北校留学群在这里：951510946**</mark>
+{% hint style="success" %}
+<mark style="color:blue;">**北校留学QQ群在这里：951510946**</mark>
 {% endhint %}
 
 因为南校一直没有一个活跃的留学群，大家基本都是在孤军奋战，所以这里建了一个QQ群，希望能帮到大家，有问必答，信息共享，欢迎加入讨论！（现已成为湖大最大的留学QQ群）
@@ -44,7 +44,7 @@ layout:
 </div>
 
 {% hint style="success" %}
-想加湖南大学24fall美国群，或者想联系本网站创始人的，请加微信：qq1985055836
+本网站创始人微信：qq1985055836，欢迎来和我交流！😊
 {% endhint %}
 
 ***
