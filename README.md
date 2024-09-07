@@ -1,5 +1,5 @@
 ---
-description: 此网站国内访问不稳定，遇到加载不出来直接点刷新即可，也可尝试访问国内域名https://www.hnufly.cn/（推荐使用电脑端获得更佳体验）
+description: 此网站国内访问不稳定，遇到加载不出来直接点刷新即可（推荐使用电脑端获得更佳体验）
 coverY: 0
 layout:
   cover:
