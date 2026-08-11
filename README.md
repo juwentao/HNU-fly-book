@@ -2,9 +2,11 @@
 description: 此网站国内访问不稳定，遇到加载不出来直接点刷新即可（推荐使用电脑端获得更佳体验）
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -14,6 +16,12 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -37,14 +45,10 @@ layout:
 <mark style="color:green;">**HNU留学社群：706650486**</mark>
 {% endhint %}
 
-<div align="center">
-
-<figure><img src=".gitbook/assets/QQ图片20221219225246 (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src=".gitbook/assets/QQ图片20221219225246 (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-本网站创始人微信：qq1985055836，欢迎来和我交流！😊
+本网站创始人微信：Tao33798，欢迎来和我交流！😊
 {% endhint %}
 
 ***
@@ -55,7 +59,7 @@ layout:
 
 <mark style="color:purple;">如果你有任何关于留学的心得、经历、感受可以和大家分享，都可以用下面的方法对本书内容进行更新，如果对本书内容有任何问题或建议，也欢迎提出，谢谢！</mark>
 
-* **方法1**：加网站创始人QQ：1985055836，或微信：qq1985055836
+* **方法1**：加网站创始人QQ：1985055836，或微信：Tao33798
 * **方法2**：**直接通过GitHub编辑此网站**（此方法需要注册GitHub账号和翻墙）：点击需要编辑的页面右上角的“在GitHub上编辑”，右上角sign in（登录）或sign up（注册）你的GitHub账号，再点击右上角的铅笔图标，对文档进行编辑，完成后点击propose changes，点击create pull request，再点击create pull request，就成功上传啦！
 
 
